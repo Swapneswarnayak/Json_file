@@ -1,11 +1,74 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+    "users": [
+        {
+            "id": 1,
+            "first_name": "Felecia",
+            "last_name": "Shugg",
+            "email": "fshugg0@zimbio.com",
+            "gender": "Bigender"
+        },
+        {
+            "id": 2,
+            "first_name": "Orson",
+            "last_name": "Hymers",
+            "email": "ohymers1@ameblo.jp",
+            "gender": "Male"
+        },
+        {
+            "id": 3,
+            "first_name": "Shannon",
+            "last_name": "Gatehouse",
+            "email": "sgatehouse2@creativecommons.org",
+            "gender": "Female"
+        },
+        {
+            "id": 4,
+            "first_name": "Reinaldos",
+            "last_name": "Geertsen",
+            "email": "rgeertsen3@php.net",
+            "gender": "Male"
+        },
+        {
+            "id": 5,
+            "first_name": "Buiron",
+            "last_name": "Nutting",
+            "email": "bnutting4@amazon.co.jp",
+            "gender": "Male"
+        },
+        {
+            "id": 6,
+            "first_name": "Carmel",
+            "last_name": "Polotti",
+            "email": "cpolotti5@smugmug.com",
+            "gender": "Female"
+        },
+        {
+            "id": 7,
+            "first_name": "Frederico",
+            "last_name": "Mumby",
+            "email": "fmumby6@hexun.com",
+            "gender": "Male"
+        },
+        {
+            "id": 8,
+            "first_name": "Arlette",
+            "last_name": "Seint",
+            "email": "aseint7@ifeng.com",
+            "gender": "Female"
+        },
+        {
+            "id": 9,
+            "first_name": "Gary",
+            "last_name": "Pennetti",
+            "email": "gpennetti8@wiley.com",
+            "gender": "Male"
+        },
+        {
+            "id": 10,
+            "first_name": "Alberta",
+            "last_name": "Pettie",
+            "email": "apettie9@princeton.edu",
+            "gender": "Female"
+        }
+    ]
+}
