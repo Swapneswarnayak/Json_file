@@ -1,6 +1,11 @@
 {
-    "Name": "Swapneswar Nayak",
-    "Age": 23,
-    "Gender": "Male",
-    "Role": "Full stack web Development"
-}
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
